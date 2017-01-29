@@ -1,0 +1,30 @@
+.profile-pic {
+	max-width:50%;
+}
+/*
+this is a comment in class
+*/
+
+.card {
+	border:solid gray 1px;
+	border-radius: 4px;
+	padding: 5px;
+	margin-bottom: 5px;
+	box-shadow: 10px 5px 5px #cccccc;
+}
+
+.mybackground {
+	background-image: url("../img/tw01.png");
+	background-color: black;
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+
+.stylebackground{
+	background-image: url("");
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+.welcom {
+	color:white;
+}
